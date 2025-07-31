@@ -103,12 +103,9 @@ Tailwind 4 used with Vite for fast development
 
 📌 Author
 Mohamed Adel
-Frontend Engineer | LinkedIn | GitHub
+Full-Stack Engineer
 
 📃 License
 This project is licensed under MIT.
 
-yaml
-Copy
-Edit
 
