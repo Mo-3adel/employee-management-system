@@ -43,16 +43,7 @@ A modern Employee & Company Management System built with **Vue 3**, **Tailwind C
 
 ---
 
-## 📁 Folder Structure
-src/
-│
-├── assets/ # Static assets (CSS, images)
-├── components/ # Reusable components (e.g. onboarding wizard)
-├── pages/ # Route-based views
-├── router/ # Vue Router setup
-├── stores/ # Pinia store (auth, etc.)
-├── App.vue # Root app
-└── main.js # Entry point
+
 
 2. Install dependencies
 bash
